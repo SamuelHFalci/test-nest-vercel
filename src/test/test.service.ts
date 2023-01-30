@@ -9,7 +9,7 @@ export class TestService {
   }
 
   async findAll() {
-    return { message: 'This action returns all test' };
+    return { message: 'This action returns all tests' };
   }
 
   findOne(id: number) {
